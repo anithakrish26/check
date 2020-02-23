@@ -1,8 +1,13 @@
 
 {
-  "honey": [
+  "posts": [
     {
       "day": "Monday",
+      "title": "Crespelle",
+      "cost": 520
+    },
+    {
+      "day": "tuesday",
       "title": "Crespelle",
       "cost": 520
     }
