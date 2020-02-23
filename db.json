@@ -1,13 +1,13 @@
+
 {
   "posts": [
     {
-      "day" : "Monday",
-      "prod": "Crespelle",
-      "cost": "&#x20B9;520"
-      }
-    
+      "day": "Monday",
+      "title": "Crespelle",
+      "cost": 520
+    }
   ],
   "profile": {
-    "name": "typicode"
+    "prod": "typicode"
   }
 }
