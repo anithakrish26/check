@@ -4,18 +4,7 @@
       "day" : "Monday",
       "prod": "Crespelle",
       "cost": "&#x20B9;520"
-      },
-
-    {
-      "day" : "Tuesday",
-      "prod": "Mexican Rice",
-      "cost": "&#x20B9;530"
-      },
-    {
-      "day" : "Tuesday",
-      "prod": "Pale Di Potato",
-      "cost": "&#x20B9;350"
-      },
+      }
     
   ],
   "profile": {
