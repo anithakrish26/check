@@ -1,6 +1,6 @@
 
 {
-  "posts": [
+  "menu": [
     {
       "day": 1,
       "title": "Crespelle",
@@ -36,8 +36,6 @@
       "title": "Crespelle Pistou Assado",
       "cost": "&#x20B9;520"
     }
-  ],
-  "profile": {
-    "prod": "typicode"
-  }
+  ]
+  
 }
