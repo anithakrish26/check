@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "Monday": [
+        {
+        "prod": "Crespelle",
+        "cost": "&#x20B9;520"
+        },
+        {
+        "prod": "Crespelle",
+        "cost": "&#x20B9;520"
+        },
+        {
+        "prod": "Crespelle",
+        "cost": "&#x20B9;520"
+        },
+       ],
+       "Tuesday": [
+        {
+        "prod": "Mexican Rice",
+        "cost": "&#x20B9;520"
+        },
+        {
+        "prod": "Mexican Rice",
+        "cost": "&#x20B9;520"
+        },
+        {
+        "prod": "Mexican Rice",
+        "cost": "&#x20B9;520"
+        },
+       ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
