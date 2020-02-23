@@ -2,9 +2,9 @@
 {
   "posts": [
     {
-      "day": "Monday",
+      "day": 1,
       "title": "Crespelle",
-      "cost": 520
+      "cost": "&#x20B9;520"
     },
     {
       "day": "tuesday",
