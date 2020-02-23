@@ -1,34 +1,22 @@
 {
   "posts": [
     {
-      "Monday": [
-        {
+      {
+        "day" : "Monday",
         "prod": "Crespelle",
         "cost": "&#x20B9;520"
         },
-        {
-        "prod": "Crespelle",
-        "cost": "&#x20B9;520"
-        },
-        {
-        "prod": "Crespelle",
-        "cost": "&#x20B9;520"
-        },
-       ],
-       "Tuesday": [
-        {
+    
+      {
+        "day" : "Tuesday",
         "prod": "Mexican Rice",
-        "cost": "&#x20B9;520"
+        "cost": "&#x20B9;530"
         },
-        {
-        "prod": "Mexican Rice",
-        "cost": "&#x20B9;520"
+    {
+        "day" : "Tuesday",
+        "prod": "Pale Di Potato",
+        "cost": "&#x20B9;350"
         },
-        {
-        "prod": "Mexican Rice",
-        "cost": "&#x20B9;520"
-        },
-       ]
     }
   ],
   "profile": {
