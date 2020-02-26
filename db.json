@@ -1,7 +1,7 @@
 
 {
-  "posts": [
-    "menu": 
+  "posts": {
+    "menu": [
       {
         "day": 1,
         "dish": "Crespelle",
@@ -44,7 +44,7 @@
         "price": "&#x20B9;520"
 
       }
-    }
-  ]
+    ]
+      }
   
 }
