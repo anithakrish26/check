@@ -2,39 +2,46 @@
 {
   "menu": [
     {
-      "day": 1,
+      "monday": {
       "title": "Crespelle",
       "cost": "&#x20B9;520"
+      }
     },
     {
-      "day": 2,
+      "tuesday": {
       "title": "Pale Di Potato",
       "cost": "&#x20B9;350"
+      }
     },
     {
-      "day": 3,
+      "wednesday": {
       "title": "Mexican Rice",
       "cost": "&#x20B9;530"
+      }
     },
     {
-      "day": 4,
+      "thursday": {
       "title": "Spinaci Salsa",
       "cost": "&#x20B9;380"
+      }
     },
     {
-      "day": 5,
+      "friday": {
       "title": "Torta Di Luigi",
       "cost": "&#x20B9;510"
+      }
     },
     {
-      "day": 6,
+      "saturday": {
       "title": "Caesar Salad",
       "cost": "&#x20B9;380"
+      }
     },
     {
-      "day": 7,
+      "sunday": {
       "title": "Crespelle Pistou Assado",
       "cost": "&#x20B9;520"
+      }
     }
   ]
   
