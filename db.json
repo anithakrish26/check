@@ -3,7 +3,8 @@
   "posts": [
     
       ],
-  "menu": [
+  "menu": {
+    "dishes": [
       {
         "day": 1,
         "dish": "Crespelle",
@@ -47,5 +48,6 @@
 
       }
     ]
+}
   
 }
