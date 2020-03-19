@@ -1,6 +1,6 @@
 # AW Business hours
 
-##Timezone
+## Timezone
 
 Prop  | Type | Default | Required/optional
 ----- | ---- | ------- | -----------------
