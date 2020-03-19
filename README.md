@@ -17,7 +17,7 @@ description  | About Timezone | String | Required
 timezone | List of timezones | Object  | Required
 timezoneDefault | Timezone default value | String | Required
 onChange | Updates selected timezone | Function | Required
-timeZoneOptions(search) | Other customization options | Object | Optional
+timeZoneOptions(search) | Other customization options | Object | Optiona
 
 
 
