@@ -1,6 +1,8 @@
-# check
+# AW Business hours
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Prop  | Type | Default | Required/optional
+----- | ---- | ------- | -----------------
+Content Cell  | Content Cell | default | req
+Content Cell  | Content Cell | default | req
+
+
