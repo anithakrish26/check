@@ -12,7 +12,7 @@ Consists of two components
 
 Prop  | Description | Type | Required/optional
 ----- |-------------| ---- |  -----------------
-title | Title  | `String` | `Required`
+title | Title  | `String` | Required
 description  | About Timezone | `String` | Required
 timezone | List of timezones | `Object`  | Required
 timezoneDefault | Default timezone value | `String` | Required
@@ -22,7 +22,7 @@ onChange | Updates selected timezone | `Function` | Required
 
 Prop  | Description | Type | Required/optional
 ----- |-------------| ---- |  -----------------
-title | Title  | `String` | `Required`
+title | Title  | `String` | Required
 description  | About Timezone | `String` | Required
 selectedType | Type of working hours selected | `String`  | Required
 updateSelectedType | Update selected working hours | `Function`  | Required
