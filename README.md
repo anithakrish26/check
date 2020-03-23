@@ -10,7 +10,7 @@ Consists of two components
 
 ## Timezone Props
 
-Prop  | Description | Type | Required/optional
+Prop  | Description | Type | Required / optional
 ----- |-------------| ---- |  -----------------
 title | Title  | `String` | Required
 description  | About Timezone | `String` | Required
@@ -20,7 +20,7 @@ onChange | Updates selected timezone | `Function` | Required
 
 ## Business hours props
 
-Prop  | Description | Type | Required/optional
+Prop  | Description | Type | Required / optional
 ----- |-------------| ---- |  -----------------
 title | Title  | `String` | Required
 description  | About Timezone | `String` | Required
