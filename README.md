@@ -28,15 +28,25 @@ selectedType | Type of working hours selected | `String`  | Required
 updateSelectedType | Update selected working hours | `Function`  | Required
 workingHours | Days and time configuration  | `Object` | Required
 updateWorkingDays |  Update selected working days | `Function` | Required
-showTimePicker | Initially Hide/show business hours configuration | `Boolean` | required
-toggleBusinessHrsView | Toggle business hours configuration view | `Function` | required
-onHoursChange | update selected time | `Function` | required
-validate | validate selected time | `Function` | required
-onApplyAll | Apply configuration of first day to all days | `Function` | required
-options - multipleTimerange| Add multiple shifts | `Object` | optional
-onAdd | Action on click of add | `Function` | optional
-onDelete | Action on click of delete | `Function` | optional
-onAppointment | Action on click of appointment | `Function` | optional
+showTimePicker | Initially Hide/show business hours configuration | `Boolean` | Required
+toggleBusinessHrsView | Toggle business hours configuration view | `Function` | Required
+onHoursChange | update selected time | `Function` | Required
+validate | validate selected time | `Function` | Required
+onApplyAll | Apply configuration of first day to all days | `Function` | Required
+options - multipleTimerange| Add multiple shifts | `Object` | Optional
+onAdd | Action on click of add | `Function` | Optional
+onDelete | Action on click of delete | `Function` | Optional
+onAppointment | Action on click of appointment | `Function` | Optional
+
+# Set up instructions
+
+```
+git clone https://github.com/Adaptavant/frontoffice-commons.git
+cd packages/aw-business-hours
+npm install
+npm start
+```
+Open http://localhost:8880/
 
 
 
